@@ -53,6 +53,20 @@ Validation accuracy:
 
 The remaining matches of the current season are simulated many times.
 
+89 remaining matches × 1000 simulations
+Each simulation produces a final league table. 
+Title probabilities are calculated as: title probability = championships / simulations
+
+## Example Output
+
+| Team | Avg Points | Title Probability |
+|-----|-----|-----|
+| Arsenal | 83.2 | 0.51 |
+| Man City | 80.1 | 0.33 |
+| Liverpool | 77.0 | 0.12 |
+
+---
+
 ## Data source
 
-- Football-Data: historical results and current-season EPL data
+Football-Data: historical results and current-season EPL data
