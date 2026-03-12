@@ -59,11 +59,12 @@ Title probabilities are calculated as: title probability = championships / simul
 
 ## Example Output
 
-| Team | Avg Points | Title Probability |
-|-----|-----|-----|
-| Arsenal | 83.2 | 0.51 |
-| Man City | 80.1 | 0.33 |
-| Liverpool | 77.0 | 0.12 |
+Team           Avg Points    Title Probability
+Arsenal           83.1              0.52
+Man City          80.4              0.31
+Liverpool         76.8              0.12
+
+![Title Probabilities](output/title_probabilities.png)
 
 ---
 
