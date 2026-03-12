@@ -64,7 +64,6 @@ Arsenal           83.1              0.52
 Man City          80.4              0.31
 Liverpool         76.8              0.12
 
-![Title Probabilities](output/title_probabilities.png)
 
 ---
 
